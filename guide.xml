@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMÉRICA">
+    <display-name lang="es">AMÉRICA</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Canal 9">
+    <display-name lang="es">Canal 9</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TV PUBLICA">
+    <display-name lang="es">TV PUBLICA</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="A24">
+    <display-name lang="es">A24</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="C5N">
+    <display-name lang="es">C5N</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Crónica TV">
+    <display-name lang="es">Crónica TV</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Encuentro">
+    <display-name lang="es">Encuentro</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="CINE.AR">
+    <display-name lang="es">CINE.AR</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="CANAL 4 HD">
+    <display-name lang="es">CANAL 4 HD</display-name>
+    <url>http://www.montecable.com.EK</url>
+  </channel>
+  <channel id="SAETA HD">
+    <display-name lang="es">SAETA HD</display-name>
+    <url>http://www.montecable.com.EK</url>
+  </channel>
+  <channel id="LATELE">
+    <display-name lang="es">LATELE</display-name>
+    <url>http://www.montecable.com.EK</url>
+  </channel>
+  <channel id="VTV HD">
+    <display-name lang="es">VTV HD</display-name>
+    <url>http://www.montecable.com.EK</url>
+  </channel>
+  <channel id="TV NACIONAL">
+    <display-name lang="es">TV NACIONAL</display-name>
+    <url>http://www.montecable.com.EK</url>
+  </channel>
+  <channel id="VTV">
+    <display-name lang="es">VTV</display-name>
+    <url>http://www.montecable.com.EK</url>
+  </channel>
+  <channel id="TV CIUDAD">
+    <display-name lang="es">TV CIUDAD</display-name>
+    <url>http://www.montecable.com.EK</url>
+  </channel>
+  <programme start="20201217003000 -0300" stop="20201217010000 -0300" channel="AMÉRICA">
+    <title lang="es">Estelita en casa</title>
+  </programme>
+  <programme start="20201217010000 -0300" stop="20201217023000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20201217023000 -0300" stop="20201217043000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20201217043000 -0300" stop="20201217055000 -0300" channel="AMÉRICA">
+    <title lang="es">Informados de todo</title>
+  </programme>
+  <programme start="20201217055000 -0300" stop="20201217065000 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+  <programme start="20201217065000 -0300" stop="20201217090000 -0300" channel="AMÉRICA">
+    <title lang="es">Buenos días, América</title>
+  </programme>
+  <programme start="20201217090000 -0300" stop="20201217110000 -0300" channel="AMÉRICA">
+    <title lang="es">BDA Extra</title>
+  </programme>
+  <programme start="20201217110000 -0300" stop="20201217133000 -0300" channel="AMÉRICA">
+    <title lang="es">Informados de todo</title>
+  </programme>
+  <programme start="20201217133000 -0300" stop="20201217160000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20201217160000 -0300" stop="20201217180000 -0300" channel="AMÉRICA">
+    <title lang="es">Fantino a la tarde</title>
+  </programme>
+  <programme start="20201217180000 -0300" stop="20201217194500 -0300" channel="AMÉRICA">
+    <title lang="es">América noticias 2da. edición</title>
+  </programme>
+  <programme start="20201217194500 -0300" stop="20201217211500 -0300" channel="AMÉRICA">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20201217211500 -0300" stop="20201217230000 -0300" channel="AMÉRICA">
+    <title lang="es">Intratables</title>
+  </programme>
+  <programme start="20201217000000 -0300" stop="20201217003000 -0300" channel="Canal 9">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20201217003000 -0300" stop="20201217010000 -0300" channel="Canal 9">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20201217010000 -0300" stop="20201217011500 -0300" channel="Canal 9">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20201217011500 -0300" stop="20201217021500 -0300" channel="Canal 9">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20201217021500 -0300" stop="20201217033000 -0300" channel="Canal 9">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20201217033000 -0300" stop="20201217040000 -0300" channel="Canal 9">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201217040000 -0300" stop="20201217050000 -0300" channel="Canal 9">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20201217050000 -0300" stop="20201217070000 -0300" channel="Canal 9">
+    <title lang="es">Dale Like!</title>
+  </programme>
+  <programme start="20201217070000 -0300" stop="20201217100000 -0300" channel="Canal 9">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20201217100000 -0300" stop="20201217120000 -0300" channel="Canal 9">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20201217120000 -0300" stop="20201217133000 -0300" channel="Canal 9">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20201217133000 -0300" stop="20201217150000 -0300" channel="Canal 9">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20201217150000 -0300" stop="20201217163000 -0300" channel="Canal 9">
+    <title lang="es">Hay que ver</title>
+  </programme>
+  <programme start="20201217163000 -0300" stop="20201217174000 -0300" channel="Canal 9">
+    <title lang="es">Confrontados</title>
+  </programme>
+  <programme start="20201217174000 -0300" stop="20201217190000 -0300" channel="Canal 9">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20201217190000 -0300" stop="20201217203000 -0300" channel="Canal 9">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20201217203000 -0300" stop="20201217220000 -0300" channel="Canal 9">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20201217220000 -0300" stop="20201217230000 -0300" channel="Canal 9">
+    <title lang="es">Mejor de noche</title>
+  </programme>
+  <programme start="20201217000000 -0300" stop="20201217003000 -0300" channel="TV PUBLICA">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20201217003000 -0300" stop="20201217010000 -0300" channel="TV PUBLICA">
+    <title lang="es">Publicados</title>
+  </programme>
+  <programme start="20201217010000 -0300" stop="20201217020000 -0300" channel="TV PUBLICA">
+    <title lang="es">Quedan los artistas</title>
+  </programme>
+  <programme start="20201217020000 -0300" stop="20201217040000 -0300" channel="TV PUBLICA">
+    <title lang="es">#SomosArgentina</title>
+  </programme>
+  <programme start="20201217040000 -0300" stop="20201217060000 -0300" channel="TV PUBLICA">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20201217060000 -0300" stop="20201217063000 -0300" channel="TV PUBLICA">
+    <title lang="es">Pampero TV</title>
+  </programme>
+  <programme start="20201217063000 -0300" stop="20201217083000 -0300" channel="TV PUBLICA">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20201217083000 -0300" stop="20201217090000 -0300" channel="TV PUBLICA">
+    <title lang="es">#Quedate en casa</title>
+  </programme>
+  <programme start="20201217090000 -0300" stop="20201217130000 -0300" channel="TV PUBLICA">
+    <title lang="es">Seguimos educando</title>
+  </programme>
+  <programme start="20201217130000 -0300" stop="20201217140000 -0300" channel="TV PUBLICA">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20201217140000 -0300" stop="20201217160000 -0300" channel="TV PUBLICA">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20201217160000 -0300" stop="20201217170000 -0300" channel="TV PUBLICA">
+    <title lang="es">Todos Estamos Conectados por la música</title>
+  </programme>
+  <programme start="20201217170000 -0300" stop="20201217190000 -0300" channel="TV PUBLICA">
+    <title lang="es">Altavoz</title>
+  </programme>
+  <programme start="20201217190000 -0300" stop="20201217200000 -0300" channel="TV PUBLICA">
+    <title lang="es">¿Quién sabe + de Argentina?</title>
+  </programme>
+  <programme start="20201217200000 -0300" stop="20201217220000 -0300" channel="TV PUBLICA">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20201217220000 -0300" stop="20201217230000 -0300" channel="TV PUBLICA">
+    <title lang="es">La última hora</title>
+  </programme>
+  <programme start="20201217000000 -0300" stop="20201217010000 -0300" channel="A24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20201217010000 -0300" stop="20201217020000 -0300" channel="A24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20201217020000 -0300" stop="20201217030000 -0300" channel="A24">
+    <title lang="es">TeveCompras</title>
+  </programme>
+  <programme start="20201217030000 -0300" stop="20201217040000 -0300" channel="A24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20201217040000 -0300" stop="20201217060000 -0300" channel="A24">
+    <title lang="es">El noticiero A24</title>
+  </programme>
+  <programme start="20201217060000 -0300" stop="20201217065000 -0300" channel="A24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20201217065000 -0300" stop="20201217090000 -0300" channel="A24">
+    <title lang="es">Buenos días, América</title>
+  </programme>
+  <programme start="20201217090000 -0300" stop="20201217100000 -0300" channel="A24">
+    <title lang="es">Buenos días, América extra</title>
+  </programme>
+  <programme start="20201217100000 -0300" stop="20201217130000 -0300" channel="A24">
+    <title lang="es">Equipo de noticias A24</title>
+  </programme>
+  <programme start="20201217130000 -0300" stop="20201217150000 -0300" channel="A24">
+    <title lang="es">MMD Maxi Mediodía</title>
+  </programme>
+  <programme start="20201217150000 -0300" stop="20201217180000 -0300" channel="A24">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20201217180000 -0300" stop="20201217190000 -0300" channel="A24">
+    <title lang="es">Realidad aumentada</title>
+  </programme>
+  <programme start="20201217190000 -0300" stop="20201217220000 -0300" channel="A24">
+    <title lang="es">El noticiero A24</title>
+  </programme>
+  <programme start="20201217220000 -0300" stop="20201217230000 -0300" channel="A24">
+    <title lang="es">4 días</title>
+  </programme>
+  <programme start="20201217000000 -0300" stop="20201217003000 -0300" channel="C5N">
+    <title lang="es">Imagen de trabajo</title>
+  </programme>
+  <programme start="20201217003000 -0300" stop="20201217013000 -0300" channel="C5N">
+    <title lang="es">Hacete cargo</title>
+  </programme>
+  <programme start="20201217013000 -0300" stop="20201217020000 -0300" channel="C5N">
+    <title lang="es">Alerta verde</title>
+  </programme>
+  <programme start="20201217020000 -0300" stop="20201217040000 -0300" channel="C5N">
+    <title lang="es">Minutouno</title>
+  </programme>
+  <programme start="20201217040000 -0300" stop="20201217050000 -0300" channel="C5N">
+    <title lang="es">ADN</title>
+  </programme>
+  <programme start="20201217050000 -0300" stop="20201217063000 -0300" channel="C5N">
+    <title lang="es">Bien temprano</title>
+  </programme>
+  <programme start="20201217063000 -0300" stop="20201217093000 -0300" channel="C5N">
+    <title lang="es">Mañanas argentinas</title>
+  </programme>
+  <programme start="20201217093000 -0300" stop="20201217120000 -0300" channel="C5N">
+    <title lang="es">Argentina en vivo</title>
+  </programme>
+  <programme start="20201217120000 -0300" stop="20201217140000 -0300" channel="C5N">
+    <title lang="es">Nos vemos</title>
+  </programme>
+  <programme start="20201217140000 -0300" stop="20201217160000 -0300" channel="C5N">
+    <title lang="es">Minuto a minuto</title>
+  </programme>
+  <programme start="20201217160000 -0300" stop="20201217180000 -0300" channel="C5N">
+    <title lang="es">La tarde</title>
+  </programme>
+  <programme start="20201217180000 -0300" stop="20201217200000 -0300" channel="C5N">
+    <title lang="es">El diario</title>
+  </programme>
+  <programme start="20201217200000 -0300" stop="20201217220000 -0300" channel="C5N">
+    <title lang="es">Minutouno</title>
+  </programme>
+  <programme start="20201217220000 -0300" stop="20201217230000 -0300" channel="C5N">
+    <title lang="es">ADN</title>
+  </programme>
+  <programme start="20201217000000 -0300" stop="20201217001500 -0300" channel="Crónica TV">
+    <title lang="es">Feliz vida</title>
+  </programme>
+  <programme start="20201217001500 -0300" stop="20201217004500 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20201217004500 -0300" stop="20201217010000 -0300" channel="Crónica TV">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20201217010000 -0300" stop="20201217011500 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20201217011500 -0300" stop="20201217013000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20201217013000 -0300" stop="20201217020000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20201217020000 -0300" stop="20201217023000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20201217023000 -0300" stop="20201217030000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20201217030000 -0300" stop="20201217033000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20201217033000 -0300" stop="20201217040000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20201217040000 -0300" stop="20201217043000 -0300" channel="Crónica TV">
+    <title lang="es">Travel Rock TV</title>
+  </programme>
+  <programme start="20201217043000 -0300" stop="20201217060000 -0300" channel="Crónica TV">
+    <title lang="es">Es muy temprano</title>
+  </programme>
+  <programme start="20201217060000 -0300" stop="20201217090000 -0300" channel="Crónica TV">
+    <title lang="es">Segunda edición</title>
+  </programme>
+  <programme start="20201217090000 -0300" stop="20201217120000 -0300" channel="Crónica TV">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20201217120000 -0300" stop="20201217140000 -0300" channel="Crónica TV">
+    <title lang="es">Chiche 2020</title>
+  </programme>
+  <programme start="20201217140000 -0300" stop="20201217160000 -0300" channel="Crónica TV">
+    <title lang="es">Crónica al mediodía</title>
+  </programme>
+  <programme start="20201217160000 -0300" stop="20201217180000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas 2020</title>
+  </programme>
+  <programme start="20201217180000 -0300" stop="20201217210000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20201217210000 -0300" stop="20201217220000 -0300" channel="Crónica TV">
+    <title lang="es">Punto cero</title>
+  </programme>
+  <programme start="20201217000000 -0300" stop="20201217003000 -0300" channel="Encuentro">
+    <title lang="es">Calle Descartes, número 16</title>
+  </programme>
+  <programme start="20201217003000 -0300" stop="20201217010000 -0300" channel="Encuentro">
+    <title lang="es">Voces para una sentencia. Memoria del Juicio a las Juntas</title>
+  </programme>
+  <programme start="20201217010000 -0300" stop="20201217020000 -0300" channel="Encuentro">
+    <title lang="es">Bitácora, el continente blanco</title>
+  </programme>
+  <programme start="20201217020000 -0300" stop="20201217023000 -0300" channel="Encuentro">
+    <title lang="es">Belgrano. La nación soñada</title>
+  </programme>
+  <programme start="20201217023000 -0300" stop="20201217030000 -0300" channel="Encuentro">
+    <title lang="es">Maestros de América Latina</title>
+  </programme>
+  <programme start="20201217030000 -0300" stop="20201217033000 -0300" channel="Encuentro">
+    <title lang="es">Susurro y altavoz</title>
+  </programme>
+  <programme start="20201217033000 -0300" stop="20201217040000 -0300" channel="Encuentro">
+    <title lang="es">Juntapapeles</title>
+  </programme>
+  <programme start="20201217040000 -0300" stop="20201217043000 -0300" channel="Encuentro">
+    <title lang="es">Sirenas rock</title>
+  </programme>
+  <programme start="20201217043000 -0300" stop="20201217050000 -0300" channel="Encuentro">
+    <title lang="es">Inoxidables</title>
+  </programme>
+  <programme start="20201217050000 -0300" stop="20201217053000 -0300" channel="Encuentro">
+    <title lang="es">Cronistas</title>
+  </programme>
+  <programme start="20201217053000 -0300" stop="20201217060000 -0300" channel="Encuentro">
+    <title lang="es">Cultura para principiantes</title>
+  </programme>
+  <programme start="20201217060000 -0300" stop="20201217070000 -0300" channel="Encuentro">
+    <title lang="es">Ver la historia</title>
+  </programme>
+  <programme start="20201217070000 -0300" stop="20201217080000 -0300" channel="Encuentro">
+    <title lang="es">Encuentro en el estudio</title>
+  </programme>
+  <programme start="20201217080000 -0300" stop="20201217083000 -0300" channel="Encuentro">
+    <title lang="es">La sala</title>
+  </programme>
+  <programme start="20201217083000 -0300" stop="20201217084500 -0300" channel="Encuentro">
+    <title lang="es">Obra en construcción</title>
+  </programme>
+  <programme start="20201217084500 -0300" stop="20201217090000 -0300" channel="Encuentro">
+    <title lang="es">Revoluciones</title>
+  </programme>
+  <programme start="20201217090000 -0300" stop="20201217100000 -0300" channel="Encuentro">
+    <title lang="es">Seguimos educando</title>
+  </programme>
+  <programme start="20201217100000 -0300" stop="20201217103000 -0300" channel="Encuentro">
+    <title lang="es">Mi oficio. Mi historia</title>
+  </programme>
+  <programme start="20201217103000 -0300" stop="20201217110000 -0300" channel="Encuentro">
+    <title lang="es">Impriman la leyenda</title>
+  </programme>
+  <programme start="20201217110000 -0300" stop="20201217120000 -0300" channel="Encuentro">
+    <title lang="es">Seguimos educando</title>
+  </programme>
+  <programme start="20201217120000 -0300" stop="20201217123000 -0300" channel="Encuentro">
+    <title lang="es">El grito de la marea</title>
+  </programme>
+  <programme start="20201217123000 -0300" stop="20201217133000 -0300" channel="Encuentro">
+    <title lang="es">Sartre y Camus</title>
+  </programme>
+  <programme start="20201217133000 -0300" stop="20201217140000 -0300" channel="Encuentro">
+    <title lang="es">Glaciares</title>
+  </programme>
+  <programme start="20201217140000 -0300" stop="20201217150000 -0300" channel="Encuentro">
+    <title lang="es">Seguimos educando</title>
+  </programme>
+  <programme start="20201217150000 -0300" stop="20201217153000 -0300" channel="Encuentro">
+    <title lang="es">En el carrousel</title>
+  </programme>
+  <programme start="20201217153000 -0300" stop="20201217160000 -0300" channel="Encuentro">
+    <title lang="es">Creando bestias prehistóricas</title>
+  </programme>
+  <programme start="20201217160000 -0300" stop="20201217170000 -0300" channel="Encuentro">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20201217170000 -0300" stop="20201217173000 -0300" channel="Encuentro">
+    <title lang="es">En su justa medida</title>
+  </programme>
+  <programme start="20201217173000 -0300" stop="20201217180000 -0300" channel="Encuentro">
+    <title lang="es">Ciencia a la carta</title>
+  </programme>
+  <programme start="20201217180000 -0300" stop="20201217190000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20201217190000 -0300" stop="20201217193000 -0300" channel="Encuentro">
+    <title lang="es">Viajeros ciencia adentro</title>
+  </programme>
+  <programme start="20201217193000 -0300" stop="20201217200000 -0300" channel="Encuentro">
+    <title lang="es">Otra excursión a los indios Ranqueles</title>
+  </programme>
+  <programme start="20201217200000 -0300" stop="20201217203000 -0300" channel="Encuentro">
+    <title lang="es">Joao Goulart</title>
+  </programme>
+  <programme start="20201217203000 -0300" stop="20201217210000 -0300" channel="Encuentro">
+    <title lang="es">Equilibrios, parques nacionales</title>
+  </programme>
+  <programme start="20201217210000 -0300" stop="20201217220000 -0300" channel="Encuentro">
+    <title lang="es">Economía desde adentro</title>
+  </programme>
+  <programme start="20201217220000 -0300" stop="20201217233000 -0300" channel="Encuentro">
+    <title lang="es">La nostalgia del centauro</title>
+  </programme>
+  <programme start="20201217000000 -0300" stop="20201217020000 -0300" channel="CINE.AR">
+    <title lang="es">Barrefondo</title>
+  </programme>
+  <programme start="20201217020000 -0300" stop="20201217040000 -0300" channel="CINE.AR">
+    <title lang="es">Relatos salvajes</title>
+  </programme>
+  <programme start="20201217040000 -0300" stop="20201217060000 -0300" channel="CINE.AR">
+    <title lang="es">Barrefondo</title>
+  </programme>
+  <programme start="20201217060000 -0300" stop="20201217080000 -0300" channel="CINE.AR">
+    <title lang="es">Amancio Williams, la casa sobre el arroyo</title>
+  </programme>
+  <programme start="20201217080000 -0300" stop="20201217100000 -0300" channel="CINE.AR">
+    <title lang="es">Mis noches sin ti</title>
+  </programme>
+  <programme start="20201217100000 -0300" stop="20201217120000 -0300" channel="CINE.AR">
+    <title lang="es">Prisioneros de una noche</title>
+  </programme>
+  <programme start="20201217120000 -0300" stop="20201217140000 -0300" channel="CINE.AR">
+    <title lang="es">Amancio Williams, la casa sobre el arroyo</title>
+  </programme>
+  <programme start="20201217140000 -0300" stop="20201217160000 -0300" channel="CINE.AR">
+    <title lang="es">Mis noches sin ti</title>
+  </programme>
+  <programme start="20201217160000 -0300" stop="20201217180000 -0300" channel="CINE.AR">
+    <title lang="es">Locos de verano</title>
+  </programme>
+  <programme start="20201217180000 -0300" stop="20201217200000 -0300" channel="CINE.AR">
+    <title lang="es">Sucio y desprolijo</title>
+  </programme>
+  <programme start="20201217200000 -0300" stop="20201217220000 -0300" channel="CINE.AR">
+    <title lang="es">Ambar</title>
+  </programme>
+</tv>
